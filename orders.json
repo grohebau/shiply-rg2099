@@ -1,0 +1,47 @@
+{
+  "S26158": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Jürgen Viktora, Himmelgeister Str. 181, 40225 Düsseldorf, Deutschland",
+    "price": "9.000 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Tri Glide Ultra Classic<br>Fahrgestelnummer: 1HD1MAM11AB855571<br>Erstzulassung: 07/2010<br>KM laut Vorbesitzer: 44.216 km<br>Leistung: 64 kW (87 PS)<br>Hubraum: 1690 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jürgen Viktora<br>Himmelgeister Str. 181<br>40225 Düsseldorf<br>Deutschland<br>Telefon: +49 1577 6307603",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "10.12.2025",
+    "deliveryDate": "16.12.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
