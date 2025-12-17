@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "10.12.2025",
-    "deliveryDate": "17.12.2025",
+    "deliveryDate": "18-19.12.2025, 15:30 Uhr",
     "pickup": {
-      "street": "Neuengammer Hinterdeich 38  ",
-      "postal_code": "21037",
-      "city": "Hamburg",
+      "street": "Freie-Vogel-Straße 7",
+      "postal_code": "44263",
+      "city": "Dortmund",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
